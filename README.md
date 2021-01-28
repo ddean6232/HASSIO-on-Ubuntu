@@ -1,4 +1,4 @@
-# Updating-HASSIO-on-Ubuntu
+# HASSIO-on-Ubuntu
 
 Seems that HASS wont update with the update buttons until I restart the host  
 after an upgrade is indicated in the Supervisor panel.
