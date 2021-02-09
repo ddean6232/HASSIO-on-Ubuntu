@@ -12,5 +12,7 @@ after an upgrade is indicated in the Supervisor panel.
 Copy backup to local drive  
 Copy certs to local drive  
 
+https://www.smarthomebeginner.com/install-hass-io-on-docker-linux/
+
 https://www.juanmtech.com/set-up-hassio-in-docker-and-in-an-ubuntu-server/
 
