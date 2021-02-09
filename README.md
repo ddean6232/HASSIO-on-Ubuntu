@@ -7,10 +7,10 @@ after an upgrade is indicated in the Supervisor panel.
 2. Push the update button for the respective modules that need an upgrade  
 
 
-#HASSIO on Ubuntu - INSTALL INSTRUCTIONS
+# HASSIO on Ubuntu - INSTALL INSTRUCTIONS  
 
 Copy backup to local drive  
-Copy certs to local drive
+Copy certs to local drive  
 
 https://www.juanmtech.com/set-up-hassio-in-docker-and-in-an-ubuntu-server/
 
